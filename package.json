@@ -7,6 +7,9 @@
   "author": "Amin Mohamed Ajani <amin.mohamed@iquanti.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "build": "node_modules/.bin/parcel build build/index.jsx"
+  },
   "dependencies": {
     "react": "^16.6.3"
   },
