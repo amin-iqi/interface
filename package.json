@@ -1,0 +1,16 @@
+{
+  "name": "interface",
+  "version": "1.0.0",
+  "description": "Alps glue layer ",
+  "main": "index.js",
+  "repository": "https://github.com/amin-iqi/interface.git",
+  "author": "Amin Mohamed Ajani <amin.mohamed@iquanti.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "^16.6.3"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3"
+  }
+}
